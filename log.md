@@ -9,3 +9,8 @@
 **Link to work:** 
 https://github.com/chaseyb/COVID-19-Tracker
 
+### Day 2: October 10, 2020 
+
+Day 2: #100daysofcode Started learning #Python! Today I learned about scripting, creating variables, and how to generate inputs & outputs. I highly recommend giving it a go! Treehouse is a fantastic resource to learn how to code.
+
+Treehouse: https://teamtreehouse.com/
