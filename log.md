@@ -18,3 +18,9 @@ Treehouse: https://teamtreehouse.com/
 ### Day 3: October 11, 2020 
 
 Day 3: #100daysofcode Today I continued to learn more about #Python! Tomorrow, I plan on building a simple game to show the skills I've learned. 
+
+### Day 4: October 12, 2020 
+
+Day 4: #100daysofcode Today, I started to build a snake game using #Python! I plan on finishing the game tomorrow once I have a better understanding of PyGame. It's a set of Python modules designed for writing simple video games.
+
+Snake game: https://lnkd.in/gjpgKPa
