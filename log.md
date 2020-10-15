@@ -28,3 +28,9 @@ Snake game: https://lnkd.in/gjpgKPa
 ### Day 5: October 13, 2020 
 
 Day 5: #100daysofcode Today, I finished building my snake game using #Python but it doesn't work. Unfortunately, PyGame is not able to run with the latest version of Python 3.9 on my Mac. I will attempt to fix the issue tomorrow. Even though I wasn't able to get it working I'm excited to learn more about Python!
+
+### Day 6: October 14, 2020 
+
+Day 6: #100daysofcode I finally got my Snake game to work! There was an issue running the Script.py file with the terminal. Feel free to check out the game. Any feedback would be greatly appreciated! 
+
+Snake game: https://lnkd.in/gjpgKPa
