@@ -34,3 +34,7 @@ Day 5: #100daysofcode Today, I finished building my snake game using #Python but
 Day 6: #100daysofcode I finally got my Snake game to work! There was an issue running the Script.py file with the terminal. Feel free to check out the game. Any feedback would be greatly appreciated! 
 
 Snake game: https://lnkd.in/gjpgKPa
+
+### Day 7: October 15, 2020 
+
+Day 7: Today, I continued to learn more #Python. I practiced coding String Methods, Booleans, and If Else & Elif statements. This weekend I plan on adding more functionality to the Snake game I recently created.
