@@ -17,17 +17,17 @@ Treehouse: https://teamtreehouse.com/
 
 ### Day 3: October 11, 2020 
 
-Day 3: #100daysofcode Today I continued to learn more about #Python! Tomorrow, I plan on building a simple game to show the skills I've learned. 
+Day 3: #100daysofcode I continued to learn more about #Python! Tomorrow, I plan on building a simple game to show the skills I've learned. 
 
 ### Day 4: October 12, 2020 
 
-Day 4: #100daysofcode Today, I started to build a snake game using #Python! I plan on finishing the game tomorrow once I have a better understanding of PyGame. It's a set of Python modules designed for writing simple video games.
+Day 4: #100daysofcode I started to build a snake game using #Python! I plan on finishing the game tomorrow once I have a better understanding of PyGame. It's a set of Python modules designed for writing simple video games.
 
 Snake game: https://lnkd.in/gjpgKPa
 
 ### Day 5: October 13, 2020 
 
-Day 5: #100daysofcode Today, I finished building my snake game using #Python but it doesn't work. Unfortunately, PyGame is not able to run with the latest version of Python 3.9 on my Mac. I will attempt to fix the issue tomorrow. Even though I wasn't able to get it working I'm excited to learn more about Python!
+Day 5: #100daysofcode I finished building my snake game using #Python but it doesn't work. Unfortunately, PyGame is not able to run with the latest version of Python 3.9 on my Mac. I will attempt to fix the issue tomorrow. Even though I wasn't able to get it working I'm excited to learn more about Python!
 
 ### Day 6: October 14, 2020 
 
@@ -37,4 +37,4 @@ Snake game: https://lnkd.in/gjpgKPa
 
 ### Day 7: October 15, 2020 
 
-Day 7: Today, I continued to learn more #Python. I practiced coding String Methods, Booleans, and If Else & Elif statements. This weekend I plan on adding more functionality to the Snake game I recently created.
+Day 7: I practiced coding String Methods, Booleans, and If Else & Elif statements in #Python. This weekend I plan on adding more functionality to the Snake game I recently created.
