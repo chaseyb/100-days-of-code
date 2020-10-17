@@ -38,3 +38,15 @@ Snake game: https://lnkd.in/gjpgKPa
 ### Day 7: October 15, 2020 
 
 Day 7: I practiced coding String Methods, Booleans, and If Else & Elif statements in #Python. This weekend I plan on adding more functionality to the Snake game I recently created.
+
+
+### Day 8: October 16, 2020
+
+Day 8: #100daysofcode Made minor improvements to V1 of my snake game. I started working on a newer version which I hope to have finished by the weekend.
+
+My goals for V2 are:
+- Game Over Screen
+- High score (Logged in a text window)
+- Scaling difficulty (Snake gets faster as it grows)
+- Use images for Snake & Food
+- Improve syntax and cleaner code
