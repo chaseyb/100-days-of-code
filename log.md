@@ -13,6 +13,7 @@ https://github.com/chaseyb/COVID-19-Tracker
 
 Day 2: #100daysofcode Started learning #Python! Today I learned about scripting, creating variables, and how to generate inputs & outputs. I highly recommend giving it a go! Treehouse is a fantastic resource to learn how to code.
 
+**Link to work:** 
 Treehouse: https://teamtreehouse.com/
 
 ### Day 3: October 11, 2020 
@@ -23,6 +24,7 @@ Day 3: #100daysofcode I continued to learn more about #Python! Tomorrow, I plan 
 
 Day 4: #100daysofcode I started to build a snake game using #Python! I plan on finishing the game tomorrow once I have a better understanding of PyGame. It's a set of Python modules designed for writing simple video games.
 
+**Link to work:** 
 Snake game: https://lnkd.in/gjpgKPa
 
 ### Day 5: October 13, 2020 
@@ -33,6 +35,7 @@ Day 5: #100daysofcode I finished building my snake game using #Python but it doe
 
 Day 6: #100daysofcode I finally got my Snake game to work! There was an issue running the Script.py file with the terminal. Feel free to check out the game. Any feedback would be greatly appreciated! 
 
+**Link to work:** 
 Snake game: https://lnkd.in/gjpgKPa
 
 ### Day 7: October 15, 2020 
