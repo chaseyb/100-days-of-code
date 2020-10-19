@@ -44,3 +44,6 @@ My goals for V2 are:
 - Scaling difficulty (Snake gets faster as it grows)
 - Use images for Snake & Food
 - Improve syntax and cleaner code
+
+### Day 9 & 10: October 18, 2020
+Continued to work on V2 of my Snake game. I figured out how to log high scores using Pickle. Still playing around with FPS and clock speed that scales when a user eats an apple.
