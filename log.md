@@ -51,8 +51,10 @@ Continued to work on V2 of my Snake game. I figured out how to log high scores u
 ### Day 11 & 12: October 20, 2020 
 Day 11 & 12: #100daysofcode Finished version two of my Python Snake game! Biggest improvements with V2:
 
-- High scores save to local storage
-- Scaleable FPS that increases when the user gets points.
-- Created a golden apple for additional points.
+- High scores save to local storage using Pickle
+- Scaleable FPS that increases when the user gets points 
+- Created a golden apple for additional points 
 - Created loading/game over screens
-- Established boundary with collision detection
+- Established boundary with collision detection 
+
+
