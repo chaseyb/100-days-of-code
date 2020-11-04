@@ -57,4 +57,9 @@ Day 11 & 12: #100daysofcode Finished version two of my Python Snake game! Bigges
 - Created loading/game over screens
 - Established boundary with collision detection 
 
+### Day 13: October 27, 2020
+
+Day 13: #100daysofcode Took a break from the screen to enjoy the outdoors. Today, I continued my learning journey with Python and completed a coding challenge on Treehouse. Taking regular breaks not only helps you maintain a healthy body, but it also increases your productivity significantly.
+
+
 
