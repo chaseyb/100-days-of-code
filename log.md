@@ -49,7 +49,7 @@ My goals for V2 are:
 Continued to work on V2 of my Snake game. I figured out how to log high scores using Pickle. Still playing around with FPS and clock speed that scales when a user eats an apple.
 
 ### Day 11 & 12: October 20, 2020 
-Day 11 & 12: #100daysofcode Finished version two of my Python Snake game! Biggest improvements with V2:
+Finished version two of my Python Snake game! Biggest improvements with V2:
 
 - High scores save to local storage using Pickle
 - Scaleable FPS that increases when the user gets points 
@@ -58,8 +58,10 @@ Day 11 & 12: #100daysofcode Finished version two of my Python Snake game! Bigges
 - Established boundary with collision detection 
 
 ### Day 13: October 27, 2020
+Took a break from the screen to enjoy the outdoors. Today, I continued my learning journey with Python and completed a coding challenge on Treehouse. Taking regular breaks not only helps you maintain a healthy body, but it also increases your productivity significantly.
 
-Day 13: #100daysofcode Took a break from the screen to enjoy the outdoors. Today, I continued my learning journey with Python and completed a coding challenge on Treehouse. Taking regular breaks not only helps you maintain a healthy body, but it also increases your productivity significantly.
+### Day 14: November 3, 2020
+Built a command-line application that allows users to purchase tickets for upcoming events. This app was built with Python and takes the input from a user to generate a ticket sale. Out of all the languages I've learned so far, Python has been the most enjoyable!
 
-
-
+**Link to work:** 
+Master Ticket: https://lnkd.in/gWH26Pp
