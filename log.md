@@ -55,7 +55,10 @@ Finished version two of my Python Snake game! Biggest improvements with V2:
 - Scaleable FPS that increases when the user gets points 
 - Created a golden apple for additional points 
 - Created loading/game over screens
-- Established boundary with collision detection 
+- Established boundary with collision detection
+
+**Link to work:** 
+https://github.com/chaseyb/python-snake-game-v2
 
 ### Day 13: October 27, 2020
 Took a break from the screen to enjoy the outdoors. Today, I continued my learning journey with Python and completed a coding challenge on Treehouse. Taking regular breaks not only helps you maintain a healthy body, but it also increases your productivity significantly.
