@@ -68,3 +68,6 @@ Built a command-line application that allows users to purchase tickets for upcom
 
 **Link to work:** 
 Master Ticket: https://lnkd.in/gWH26Pp
+
+### Day 15 & 16: November 5, 2020
+Finished the Pythons Basics course on Treehouse! Lists are up next. They're a powerful data type that allows you to store multiple ordered values in a single container. 
