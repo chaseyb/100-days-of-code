@@ -71,3 +71,6 @@ Master Ticket: https://lnkd.in/gWH26Pp
 
 ### Day 15 & 16: November 5, 2020
 Finished the Pythons Basics course on Treehouse! Lists are up next. They're a powerful data type that allows you to store multiple ordered values in a single container. 
+
+### Day 15 & 16: November 5, 2020
+Back on the coding train! Today I learned about process automation using Python. In this lesson, I broke down student's grades into separate pass & fail txt files only using terminal commands and a for each loop. I want to dive deeper into automation as it eliminates errors and greatly reduces the time it takes to solve day-to-day tasks!
