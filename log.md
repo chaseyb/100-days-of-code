@@ -74,3 +74,6 @@ Finished the Pythons Basics course on Treehouse! Lists are up next. They're a po
 
 ### Day 17: November 17, 2020
 Back on the coding train! Today I learned about process automation using Python. In this lesson, I broke down student's grades into separate pass & fail txt files only using terminal commands and a for each loop. I want to dive deeper into automation as it eliminates errors and greatly reduces the time it takes to solve day-to-day tasks!
+
+### Day 18: November 19, 2020
+Completed some practice coding tests on CodeSignal. It's a great resource to test your knowlege and make connections with hiring managers at various tech companies.
