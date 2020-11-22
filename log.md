@@ -77,3 +77,6 @@ Back on the coding train! Today I learned about process automation using Python.
 
 ### Day 18: November 19, 2020
 Completed some practice coding tests on CodeSignal. It's a great resource to test your knowlege and make connections with hiring managers at various tech companies.
+
+### Day 19: November 21, 2020
+Watched coding interviews online. I recommend checking out Clément Mihailescu Youtube channel. The videos on his channel are very helpful and he also runs a website called www.algoexpert.io which is designed to help you prepare for technical interviews.
